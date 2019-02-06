@@ -47,7 +47,7 @@ $num_days = cal_days_in_month(CAL_GREGORIAN, $current_month, $current_year);
             </li>
         </ul>
     </nav>
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <h2>Attendance</h2>
         </div>
